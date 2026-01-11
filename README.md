@@ -3,7 +3,7 @@
 <details>
 <summary>2015 GH story</summary>
 
-I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet account I've not deleted/lost is my [DeviantArt](https://deviantart.com/hydroper), which is from the 2014 year. (In a certain way, I still have my first Steam account basically loggable as well, but it's a bit inaccessible.)
+I've gone through different medical situations and ended up deleting several accounts in the internet, including GitHub ones. The only internet accounts I've not deleted/lost are my [DeviantArt](https://deviantart.com/hydroper) and [PHPBrasil](https://phpbrasil.com/profile/RMYiJhYbdir/matheus-dias-de-souza), which are from the 2014 and 2015 years respectively. (In a certain way, I still have my first Steam account basically loggable as well, but it's a bit inaccessible.)
 
 [Here's one example question I asked in StackOverflow in 2015.](https://stackoverflow.com/questions/31146403/how-to-make-url-clear) (As you can see, my written English was a little poor as I'm not a native speaker.)
 
@@ -17,14 +17,6 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 
 </details>
 
-# ZoneGFX
-
-I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger multi-media framework. However that currently proves hard, so I thought on mask an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
-
-- [Demostrating the ZoneGFX build system](https://gist.github.com/MatheusDS4/ee404fee777a2800ba5bcbb30db5416a)
-
-Due to a not so good engagement with the TypeScript community, I decided to stop working on that.
-
 # Whack engine
 
 <img width="533" height="186" alt="image" src="https://github.com/user-attachments/assets/25e861c5-3de2-448c-bf66-8f745a622400" /><br>
@@ -32,3 +24,11 @@ Due to a not so good engagement with the TypeScript community, I decided to stop
 <img width="296" height="275" alt="image" src="https://github.com/user-attachments/assets/2dfb056c-9f99-487d-b259-f23172de38fa" />
 
 There are no clear thoughts as to whether the multi-media framework called "Whack" will be worked on. You may look at the [ShockScript](https://github.com/shockscript) organisation for the scripting language that it wants to support.
+
+# ZoneGFX
+
+I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger multi-media framework. However that currently proves hard, so I thought on masking an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
+
+- [Demostrating the ZoneGFX build system](https://gist.github.com/MatheusDS4/ee404fee777a2800ba5bcbb30db5416a)
+
+Due to a not so good engagement with the TypeScript community, I decided to stop working on that.
