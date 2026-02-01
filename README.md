@@ -23,12 +23,9 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 <img width="296" height="306" alt="image" src="https://github.com/user-attachments/assets/5b24d630-2b20-4e9c-83c4-a57f5a99c5b7" /><br>
 <img width="296" height="275" alt="image" src="https://github.com/user-attachments/assets/2dfb056c-9f99-487d-b259-f23172de38fa" />
 
-There are no clear thoughts as to whether the multi-media framework called "Whack" will be worked on. You may look at the [ShockScript](https://github.com/shockscript) organisation for the scripting language that it wants to support.
+No clear thoughts as to whether the multi-media framework called "Whack" will be worked on. You may look at the [ShockScript](https://github.com/shockscript) organisation for the scripting language that it wants to support.
 
-# ZoneGFX
+# Metro design language
 
-I've up to sometime kept infinitely in the cycle of making a scripting language be reality, and eventually its bigger multi-media framework. However that currently proves hard, so I thought on masking an existing structurally-typed scripting language as another language leveraging their compiler infrastructure and relying on JIT engines like V8 and as a fallback, WebView.
-
-- [Demostrating the ZoneGFX build system](https://gist.github.com/MatheusDS4/ee404fee777a2800ba5bcbb30db5416a)
-
-Due to a not so good engagement with the TypeScript community, I decided to stop working on that.
+- [Metro theme for mdBook](https://github.com/sweaxizone/metro-mdbook)
+- [Metro component library for ReactJS](https://github.com/matheusds4/metro.js) (slightly outdated)
