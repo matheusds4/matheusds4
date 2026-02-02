@@ -1,4 +1,4 @@
-# What happened to my GitHub account?
+# 2015 GitHub
 
 <details>
 <summary>2015 GH story</summary>
@@ -17,15 +17,12 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 
 </details>
 
-# Whack engine
+# Whack Red
 
-<img width="533" height="186" alt="image" src="https://github.com/user-attachments/assets/25e861c5-3de2-448c-bf66-8f745a622400" /><br>
-<img width="296" height="306" alt="image" src="https://github.com/user-attachments/assets/5b24d630-2b20-4e9c-83c4-a57f5a99c5b7" /><br>
-<img width="296" height="275" alt="image" src="https://github.com/user-attachments/assets/2dfb056c-9f99-487d-b259-f23172de38fa" />
-
-No clear thoughts as to whether the multi-media framework called "Whack" will be worked on. You may look at the [ShockScript](https://github.com/shockscript) organisation for the scripting language that it wants to support.
+[![](https://img.shields.io/badge/ShockScript-gray?style=for-the-badge)](https://shockscript.github.io/spec/)<br>
+[![](https://img.shields.io/badge/Whack%20Red-gray?style=for-the-badge)](https://whackred.github.io/help/manual/)
 
 # Metro design language
 
-- [Metro theme for mdBook](https://github.com/sweaxizone/metro-mdbook)
-- [Metro component library for ReactJS](https://github.com/matheusds4/metro.js) (slightly outdated)
+[![](https://img.shields.io/badge/Metro%20theme%20for%20mdBook-gray?style=for-the-badge)](https://github.com/sweaxizone/metro-mdbook)<br>
+[![](https://img.shields.io/badge/Metro%20for%20ReactJS-gray?style=for-the-badge)](https://github.com/matheusds4/metro.js) *(slightly outdated)*
