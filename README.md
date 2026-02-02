@@ -19,6 +19,8 @@ I started learning dev stuff in the 2014's even, or pratically 2015's beginning.
 
 # Whack Red
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d462651c-1200-4880-a00a-78cb49117450" /><br>
+
 [![](https://img.shields.io/badge/ShockScript-gray?style=for-the-badge)](https://shockscript.github.io/spec/)<br><br>
 [![](https://img.shields.io/badge/Whack%20Red-gray?style=for-the-badge)](https://whackred.github.io/help/manual/)
 
